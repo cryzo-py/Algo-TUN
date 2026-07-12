@@ -47,7 +47,7 @@ Algo-TUN est disponible sous la forme d'un exécutable Windows facile à install
 ## ⚖️ Licence et Droits d'Auteur
 
 **Auteur :** Fares Bel Haj Ali  
-Ce logiciel est protégé par des droits d'auteur. Il est distribué sous une **Licence Propriétaire Non-Commerciale**.
+Ce logiciel est protégé par des droits d'auteur. Il est distribué sous une  **Licence Propriétaire Non-Commerciale**.
 
 * Vous êtes libre de l'utiliser gratuitement à des fins éducatives et personnelles.
 * Toute utilisation commerciale, modification ou intégration dans un produit tiers est strictement interdite sans l'accord explicite de l'auteur.
