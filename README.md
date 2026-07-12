@@ -32,7 +32,7 @@ Cet outil a été conçu spécifiquement pour accompagner les lycéens et les en
 
 Algo-TUN est disponible sous la forme d'un exécutable Windows facile à installer.
 
-1. Téléchargez le fichier d'installation `Algo-TUN_V1_Setup.exe`.
+1. Téléchargez le fichier d'installation `Algo-TUN_SetupV2.exe`.
 2. Lancez l'installateur et suivez les instructions à l'écran.
 3. Ouvrez Algo-TUN depuis votre menu Démarrer.
 
