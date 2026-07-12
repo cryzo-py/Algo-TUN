@@ -1,3 +1,4 @@
+![Téléchargements](https://img.shields.io/github/downloads/cryzo-py/Algo-TUN/total?color=blue&label=T%C3%A9l%C3%A9chargements)
 # Algo-TUN 💻🇹🇳
 
 **Algo-TUN** est un environnement de développement et d'édition algorithmique complet, strictement conforme à la **convention algorithmique du Ministère de l'Éducation Tunisienne**. 
