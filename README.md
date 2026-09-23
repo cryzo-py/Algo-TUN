@@ -1,5 +1,5 @@
 ![Téléchargements](https://img.shields.io/github/downloads/cryzo-py/Algo-TUN/total?color=blue&label=T%C3%A9l%C3%A9chargements)
-# Algo-TUN 💻🇹🇳 — Version 3.0
+# Algo-TUN 💻🇹🇳
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![GUI](https://img.shields.io/badge/GUI-PySide6%20%2F%20Qt6-41CD52?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
