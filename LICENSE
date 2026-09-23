@@ -1,21 +1,63 @@
-CONTRAT DE LICENCE UTILISATEUR FINAL (PROPRIÉTAIRE, NON-COMMERCIAL)
+CONTRAT DE LICENCE UTILISATEUR FINAL (CLUF)
+LICENCE PROPRIÉTAIRE GRATUITE À USAGE ÉDUCATIF (FREEWARE ÉDUCATIF)
 
 Logiciel : Algo-TUN
-Auteur : Fares Bel Haj Ali
+Version : 3.0
+Auteur et Titulaire exclusif des Droits : Fares Bel Haj Ali
 Droits d'auteur (c) 2024-2026 Fares Bel Haj Ali. Tous droits réservés.
+Distribution officielle : https://github.com/cryzo-py/Algo-TUN
 
-CONDITIONS D'UTILISATION :
+================================================================================
+IMPORTANT — VEUILLEZ LIRE ATTENTIVEMENT CE CONTRAT :
+En téléchargeant, installant ou utilisant le logiciel Algo-TUN (ci-après le 
+« Logiciel »), vous acceptez d'être lié par l'ensemble des termes et conditions 
+de la présente licence. Si vous n'acceptez pas ces conditions, n'installez pas 
+et n'utilisez pas ce Logiciel.
+================================================================================
 
-1. UTILISATION PERSONNELLE ET ÉDUCATIVE
-L'Auteur accorde à l'utilisateur final une licence limitée, non exclusive, non transférable et révocable d'utilisation de ce Logiciel à des fins strictement personnelles, éducatives et non commerciales. Ce Logiciel est conçu pour être conforme à la convention algorithmique du Ministère de l'Éducation Tunisienne.
+1. PROPRIÉTÉ INTELLECTUELLE ET CODE SOURCE
+   Le Logiciel est protégé par les lois nationales et internationales relatives 
+   au droit d'auteur et à la propriété intellectuelle.
+   - Fares Bel Haj Ali conserve l'entière et exclusive propriété du Logiciel, de son 
+     architecture, de ses interfaces et de son code source.
+   - LE CODE SOURCE DU LOGICIEL N'EST PAS FOURNI, N'EST PAS ACCESSIBLE ET N'EST 
+     PAS PUBLIC. Aucun droit d'accès, d'inspection, de modification ou de copie 
+     du code source n'est concédé à l'utilisateur.
 
-2. RESTRICTIONS COMMERCIALES
-Il est formellement interdit d'utiliser ce Logiciel, en tout ou en partie, à des fins commerciales ou lucratives. Toute intégration du Logiciel dans un produit commercial, toute vente, location, ou sous-licence est strictement prohibée sans l'autorisation écrite et expresse de l'Auteur.
+2. CONCESSION DE LICENCE (UTILISATION GRATUITE ET ÉDUCATIVE)
+   L'Auteur accorde à l'utilisateur final une licence personnelle, gratuite, 
+   non-exclusive et non-transférable d'installation et d'exécution du Logiciel 
+   (sous sa forme binaire exécutable officielle uniquement), strictement réservée à :
+   - L'apprentissage personnel et l'entraînement algorithmique ;
+   - L'enseignement et l'évaluation pédagogique au sein des collèges, lycées, 
+     universités et établissements d'enseignement de la République Tunisienne ;
+   - La préparation aux épreuves officielles du Baccalauréat.
 
-3. MODIFICATION ET DISTRIBUTION
-Il est interdit de décompiler, désassembler, procéder à de l'ingénierie inverse, modifier ou créer des œuvres dérivées basées sur ce Logiciel. Toute redistribution du Logiciel, sous forme binaire ou source, n'est autorisée qu'à titre gratuit et avec mention explicite du nom de l'Auteur (Fares Bel Haj Ali). 
+3. INTERDICTIONS STRICTES D'INGÉNIERIE INVERSE ET MODIFICATION
+   L'utilisateur s'engage formellement à NE PAS :
+   - Décompiler, désassembler, désosser ou procéder à toute forme de rétro-ingénierie 
+     (reverse engineering) du Logiciel ;
+   - Tenter d'extraire, de reconstituer ou de contourner la protection du code source ;
+   - Modifier, adapter, altérer, traduire ou créer des œuvres dérivées basées 
+     sur le Logiciel ou ses composants ;
+   - Supprimer ou altérer les mentions de copyright, logos ou signatures de l'Auteur.
 
-4. EXCLUSION DE GARANTIE
-Le Logiciel est fourni "en l'état", sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. En aucun cas l'Auteur ne pourra être tenu responsable de toute réclamation, dommage ou autre responsabilité découlant de l'utilisation de ce Logiciel.
+4. RESTRICTIONS COMMERCIALES ET REDISTRIBUTION
+   - Le Logiciel est un freeware strictement non-commercial.
+   - Il est formellement interdit de vendre, louer, prêter ou monétiser ce Logiciel, 
+     directement ou indirectement.
+   - Aucune redistribution payante, sur quelque support que ce soit (clé USB, CD, 
+     plateforme en ligne, packs d'exercices payants), n'est tolérée.
+   - Seule la redistribution gratuite de l'installateur officiel original et non 
+     altéré (tel que fourni par l'Auteur sur le canal officiel) est autorisée.
 
-En utilisant Algo-TN, vous acceptez d'être lié par les termes de la présente licence.
+5. EXCLUSION DE GARANTIE ET LIMITATION DE RESPONSABILITÉ
+   Le Logiciel est fourni « EN L'ÉTAT », sans garantie expresse ou implicite de quelque 
+   nature que ce soit. En aucun cas l'Auteur ne pourra être tenu responsable de 
+   dommages directs, indirects, matériels ou immatériels, pertes de données ou 
+   interruptions d'activité résultant de l'utilisation ou de l'impossibilité d'utiliser 
+   ce Logiciel.
+
+================================================================================
+Tous les droits non expressément accordés par le présent contrat sont réservés 
+exclusivement par Fares Bel Haj Ali.
