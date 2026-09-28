@@ -9,7 +9,7 @@
 
 **Algo-TUN** est l'environnement de développement et d'apprentissage algorithmique de référence, **100% conforme aux programmes et directives officielles du Ministère de l'Éducation Tunisienne**.
 
-Conçu spécifiquement pour les **lycéens (sections Sciences de l'Informatique, Mathématiques, Sciences Expérimentales, Économie-Gestion, Technique)** et les **enseignants**, Algo-TUN transforme l'apprentissage de l'algorithmique en une expérience visuelle, interactive, pédagogique et rigoureuse.
+Conçu spécifiquement pour les **lycéens (sections Sciences de l'Informatique, Mathématiques, Sciences Expérimentales,  Technique)** et les **enseignants**, Algo-TUN transforme l'apprentissage de l'algorithmique en une expérience visuelle, interactive, pédagogique et rigoureuse.
 
 ---
 
